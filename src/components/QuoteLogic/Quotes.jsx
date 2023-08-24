@@ -1,4 +1,5 @@
 import { useState, useEffect } from 'react';
+import styles from '@/styles/Quotes.module.css';
 
 const baseURL = 'https://api.api-ninjas.com/v1/quotes?category=movies';
 const apiKey = 'xs1lhvlYhQQTDXI2TUdCeQ==JJgaQ0kspETdrSRz';
@@ -46,16 +47,16 @@ export default function RederQuote() {
 
   return (
     <div>
-      <p>
+      <p className={styles.subtitle}>
         Quote:
       </p>
-      <p>
+      <p className={styles.quote}>
         {data[0]?.quote}
       </p>
-      <p>
+      <p className={styles.subtitle}>
         Author:
       </p>
-      <p>
+      <p className={styles.quote}>
         {data[0]?.author}
       </p>
     </div>

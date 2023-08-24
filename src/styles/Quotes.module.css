@@ -1,0 +1,10 @@
+.subtitle {
+  font-size: large;
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+.quote {
+  font-style: italic;
+  margin-left: 15%;
+}

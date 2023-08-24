@@ -1,0 +1,12 @@
+.title {
+    text-align: center;
+    text-decoration: underline;
+}
+
+.paragrap {
+    border: 3px solid rgb(118, 73, 53);
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
