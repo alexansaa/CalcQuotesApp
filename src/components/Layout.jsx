@@ -1,9 +1,10 @@
 import { Outlet } from 'react-router-dom';
 import Navbar from '@/components/Navbar';
+import styles from '@/styles/Layout.module.css';
 
 const Layout = () => {
   return ( 
-    <div>
+    <div className={styles.homePadding}>
       <Navbar />
       <Outlet />
     </div>

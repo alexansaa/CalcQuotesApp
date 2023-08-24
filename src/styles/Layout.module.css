@@ -1,0 +1,9 @@
+.homePadding {
+  margin-left: 3%;
+  margin-right: 3%;
+}
+
+.homePadding p {
+  text-align: justify;
+  text-justify: inter-word;
+}
