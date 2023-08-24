@@ -1,7 +1,9 @@
+import MyQuote from '@/components/QuoteLogic/Quotes.jsx';
+
 const Quotes = () => {
   return (
     <div>
-      <p>Some quotes</p>
+      <MyQuote />
     </div>
   );
 };
