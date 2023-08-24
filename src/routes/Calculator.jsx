@@ -4,7 +4,7 @@ import style from '@/styles/Calculator.module.css';
 const Calculator = () => {
   return (
     <div className={style.matContainer}>
-      <div className={style.column}>Let's do some math!</div>
+      <div className={style.column}>Let`&apos;`s do some math!</div>
       <MyCalculator />
     </div>
   );

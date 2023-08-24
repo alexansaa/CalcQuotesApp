@@ -1,4 +1,3 @@
-import React from 'react';
 import propTypes from 'prop-types';
 import style from '@/styles/Screen.module.css';
 
