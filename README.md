@@ -139,7 +139,7 @@ Deploy this project on any websever
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/alexansaa/math_magicians/issues).
+Feel free to check the [issues page](https://github.com/alexansaa/CalcQuotesApp/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
