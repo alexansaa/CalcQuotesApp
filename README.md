@@ -89,7 +89,7 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 ```
-git clone yourlink repo https://github.com/alexansaa/To-Do_List.git
+git clone yourlink repo https://github.com/alexansaa/CalcQuotesApp.git
 
 cd your folder name
 ```
